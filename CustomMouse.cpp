@@ -1,9 +1,13 @@
 #include <iostream>
+<<<<<<< HEAD
 #include "pch.h"
+=======
+>>>>>>> c77c7f38716fa362cfd817578e86f9d19972c22a
 
 using namespace std;
 
 class customMouse{
+<<<<<<< HEAD
 	public:
 	
 	enum moduleType{empty, button, wheel};
@@ -69,3 +73,15 @@ class customMouse{
         }
 	}
 };
+=======
+	public: 
+	customMouse(int _slots){
+			
+	}
+}
+
+int main(){
+	
+	
+}
+>>>>>>> c77c7f38716fa362cfd817578e86f9d19972c22a
